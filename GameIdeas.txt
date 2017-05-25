@@ -1,0 +1,22 @@
+Plans for Project
+
+* Space Invaders
+* Asteroids 
+* Online multiplayer thing X (too hard, need servers)
+* Cluedo	???										
+* Top Trumps
+* Choose yer own adventure X (too easy, 2d arrays may not even be used)
+* Endless Runner
+* Raycasting based shooter
+
+Proceduraly generated thing? Music based (audiosurf, but not)
+Procedural Quiz
+Two-player chess
+Music to midi
+Tennis for two (Pong)
+Windows/ Custom OS/ (too complex)
+Shave someone?
+Game idea generator
+Zombie Run
+Text based RPG
+RPS
